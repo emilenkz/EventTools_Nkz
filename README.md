@@ -1,5 +1,3 @@
-[EventTools](https://i.ibb.co/Vq6jd1t/Event-Tools-2.png)
-
 # EventTools_Nkz
 
 ## Description
