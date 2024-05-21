@@ -1,3 +1,5 @@
+![Nom de l'image](https://cdn.discordapp.com/attachments/517055230756782095/1184904638990921809/mymenu-ico.png?ex=658dab70&is=657b3670&hm=c4dd168c7ae7252d4da6d53868f151fee5b9a8da544ecd7f3df0360467d55ffe&)
+
 # EventTools_Nkz
 
 ## Description
@@ -18,6 +20,14 @@
 - **Paramétrage du niveau admin** :
    - Via la commande `/eventaccess`, les administrateurs de niveau 5 peuvent déterminer quel niveau d'accessibilité est requis pour ouvrir le panel ou utiliser la commande de mégaphone (sauf changement).
 
+## Installation
 
-## Créateurs et Développeurs
-Plugin créé et développé par Emile.cvl | Discord : emile.cvl
+1. Téléchargez le fichier `EventTools_Nkz.dll` depuis la page des releases de ce dépôt. 
+2. Ajoutez le fichier `EventTools_Nkz.dll` dans le dossier des plugins de votre serveur Novalife.
+
+
+## Développeurs
+Plugin développé par Emile.cvl | Discord : emile.cvl
+Si vous rencontrez des problèmes ou avez besoin d'aide avec le plugin, vous pouvez me contacter au Discord : emile.cvl.
+
+**Je vous prie de respecter le temps que j'ai investi dans ce plugin. Merci de ne pas l'utiliser de manière inappropriée et de ne pas en altérer l'intégrité.**
