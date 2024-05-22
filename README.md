@@ -10,7 +10,8 @@
    - **Un-Mute All** : Rétablit le son pour tous les joueurs.
    - **TP All** : Téléporte tous les joueurs à la position de l'administrateur.
    - **Revive All** : Rétablit la santé, la faim et la soif de tous les joueurs.
-   - **Annonce Prioritaire** : Permet de diffuser un message important à tous les joueurs.
+   - **Annonce Prioritaire** : Permet de diffuser un message important à tous les joueurs. 
+   (Message en pleine écran pour les joueurs a pied / message dans le chat pour ceux en véhicule)
 
 - **Fonction de mégaphone** :
    - Activable avec la touche flèche haut (`UpArrow`), permettant aux administrateurs de parler avec un mégaphone en jeu.
