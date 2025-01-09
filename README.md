@@ -1,3 +1,5 @@
+![GitHub all releases](https://img.shields.io/github/downloads/emilenkz/eventtools_nkz/total?style=plastic&label=Downloads&color=gold)
+
 # EventTools_Nkz
 
 ## Description
